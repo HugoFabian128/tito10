@@ -1,0 +1,7 @@
+archivo,texto_esperado,texto_reconocido,texto_limpio_pln,intencion_esperada,intencion_detectada,correcto
+voz_01_beca.wav,quiero informacion sobre becas,Quiero información sobre becas,quiero informacion sobre becas,becas,becas,Sí
+voz_02_biblioteca.wav,a que hora abre la biblioteca,A qué hora abre la biblioteca,a que hora abre la biblioteca,biblioteca,biblioteca,Sí
+voz_03_inscripciones.wav,cuando empiezan las inscripciones,Cuándo empiezan las inscripciones,cuando empiezan las inscripciones,inscripciones,inscripciones,Sí
+voz_04_horarios.wav,donde puedo consultar mis horarios,Dónde puedo consultar mis horarios,donde puedo consultar mis horarios,horarios,horarios,Sí
+voz_05_kardex.wav,necesito tramitar mi kardex oficial,necesito tramitar mi kardex oficial,necesito tramitar mi kardex oficial,tramites,tramites,Sí
+voz_06_servicio_social.wav,requisitos para liberar el servicio social,requisitos para liberar el servicio social,requisitos para liberar el servicio social,servicio_social,servicio_social,Sí

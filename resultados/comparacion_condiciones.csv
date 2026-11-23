@@ -1,0 +1,4 @@
+condicion,archivo,texto_esperado,texto_reconocido,observacion
+Silencio,cond_01_silencio.wav,como solicito una beca,Cómo solicito una beca,Transcripción limpia
+Ruido moderado,cond_02_ruido.wav,como solicito una beca,Cómo solicito una ve,Degradación parcial por entorno
+Mayor distancia,cond_03_distancia.wav,como solicito una beca,[NO_ENTENDIDO],Fallo de reconocimiento por ruido/distancia
